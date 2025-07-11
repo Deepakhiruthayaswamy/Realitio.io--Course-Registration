@@ -1,10 +1,4 @@
 #  Task 3 - Course registration
-  - Structure 
-    - CourseList with Pagination
-    - Register for course
-    - Registration Table
-    - 
-
   - Feature 
       - Paginated course listing.
       - Course search functionality.
